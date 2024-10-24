@@ -12,16 +12,21 @@
 1. Клонувати репозиторій:
    ```bash
    git clone https://github.com/santar4/Tour3_Task
-
    
- ## Встановити усі потрібні бібліотеки  
+### Створити віртуальне середовище 
+
+`py -m venv .venv`
+
+`.venv\Scripts\activate`
+
+
+## Встановити усі потрібні бібліотеки  
  1. Встановлюємо бібліоткеи
 ```bash
 pip install -r requirements.txt
 
-
 ## Запустіть додаток
-1. Запускаємо додаток
+1. Запускаємо додаток:
 ```bash
-python app.py
+`python app.py`
 
