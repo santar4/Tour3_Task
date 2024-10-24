@@ -12,3 +12,11 @@
 1. Клонувати репозиторій:
    ```bash
    git clone https://github.com/santar4/Tour3_Task
+ ## Встановити усі потрібні бібліотеки  
+```bash
+pip install -r requirements.txt
+
+## Запустіть додаток
+ ```bash
+python app.py
+
