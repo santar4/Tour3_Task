@@ -49,3 +49,7 @@ Werkzeug==3.0.3
 WTForms==3.1.2
 yarl==1.9.4
 zipp==3.19.2
+unittest2==1.1.0
+coverage==7.3.1
+pylint==2.17.5
+pytest==7.4.0
