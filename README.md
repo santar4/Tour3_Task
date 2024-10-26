@@ -26,5 +26,6 @@
 pip install -r requirements.txt
 
 ## Запустіть додаток
-python app.py
+ python -m app.main
+
 
