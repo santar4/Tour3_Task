@@ -23,7 +23,7 @@
 ## Встановити усі потрібні бібліотеки  
  1. Встановлюємо бібліоткеи
 ```bash
-pip install -r requrenments.txt
+pip install -r requrenments
 
 ## Запустіть додаток
  python -m app.main
